@@ -6,7 +6,7 @@ This project implements a YOLOv8-based object detection system to identify wheth
 
 ## Project Structure
 
-face-mask-detection/
+face-mask-detection/<br>
 ├── Face Mask Detection Dataset # Zipped Roboflow dataset<br>
 ├── Mask_Detection_YOLOv8.ipynb # Jupyter Notebook for training<br>
 ├── mask_detection.py # Script to run webcam<br>
